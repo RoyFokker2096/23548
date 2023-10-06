@@ -1,0 +1,11 @@
+/*main {
+    background-image: url('../asset/img/hawaii.jpg');
+    height: 100vh;
+    background-color: gray;
+    background-blend-mode:  soft-light;
+    background-position: center;
+    background-size: cover;
+*/
+.filter{
+    filter:brightness(0.6);
+}
